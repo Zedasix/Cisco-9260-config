@@ -6,6 +6,7 @@ La connexion entre le switch (1/0/1) et le routeur G0/0
 Le NAT sort vers internet sur le port G0/1
 
 Cette page est en public, c'est plus simple qu'un pastebin (et ça fait de l'activité sur mon compte :D)
+![Alt Text](https://media.tenor.com/tQVHeKhEgF8AAAAC/jdg-computer.gif)
 # Partie switch
 ```
 vlan 10
