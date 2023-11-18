@@ -1,5 +1,9 @@
 # Cisco-9260-config
-Config d'un switch Cisco 9260 avec un routeur Cisco en utilsant deux VLAN
+Config d'un switch Cisco 9260 avec un routeur Cisco en utilsant deux VLAN.
+Un PC et un serveur Proxmox sur le Vlan 10
+Un second PC sur le Vlan 20
+La connexion entre le switch (1/0/1) et le routeur G0/0
+Le NAT sort vers internet sur le port G0/1
 
 Cette page est en public, c'est plus simple qu'un pastebin (et ça fait de l'activité sur mon compte :D)
 Partie switch
